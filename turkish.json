@@ -1,4 +1,5 @@
-{"vendorList":[
+{
+    "vendorList":[
     {
         "vendorId": 0,
         "vendorNumber": "0",
@@ -17,4 +18,5 @@
         "vendorName": "ATA ALP İLETİŞİM ALETLERİ FAT.TAHS.HİZM.OTO.TUR.TİC.VE SAN.LTD.ŞTİ.",
         "taxRegNum": "1"
     }
-]}
+]
+}
