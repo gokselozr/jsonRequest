@@ -1,0 +1,20 @@
+[
+    {
+        "vendorId": 0,
+        "vendorNumber": "0",
+        "vendorName": "ATA AKARYAKIT SANAYİ VE TİCARET LTD. ŞTİ ",
+        "taxRegNum": "1"
+    },
+    {
+        "vendorId": 0,
+        "vendorNumber": "0",
+        "vendorName": "ATA AKARYAKIT SANAYİ VE TİCARET LİMİTED ŞİRKETİ",
+        "taxRegNum": null
+    },
+    {
+        "vendorId": 0,
+        "vendorNumber": "0",
+        "vendorName": "ATA ALP İLETİŞİM ALETLERİ FAT.TAHS.HİZM.OTO.TUR.TİC.VE SAN.LTD.ŞTİ.",
+        "taxRegNum": "1"
+    }
+]
