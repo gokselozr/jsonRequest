@@ -1,0 +1,20 @@
+[
+    {
+        "id_column": 1,
+        "title": "Project Alpha",
+        "startDate": "2024-01-15T09:00:00Z",
+        "endDate": "2024-03-15T17:00:00Z"
+    },
+    {
+        "id_column": 2,
+        "title": "Project Beta",
+        "startDate": "2024-02-01T10:30:00Z",
+        "endDate": "2024-04-01T16:30:00Z"
+    },
+    {
+        "id_column": 3,
+        "title": "Project Gamma",
+        "startDate": "2024-03-01T08:00:00Z",
+        "endDate": "2024-05-01T18:00:00Z"
+    }
+]
